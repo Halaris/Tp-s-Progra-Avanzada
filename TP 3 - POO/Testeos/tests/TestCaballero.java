@@ -87,7 +87,7 @@ public class TestCaballero {
 
 	}
 
-	/** VER PORQUE NO ANDA */
+
 	@Test
 	public void atacaCaballeroConEscudo() {
 

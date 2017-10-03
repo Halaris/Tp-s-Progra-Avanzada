@@ -85,7 +85,6 @@ public class TestArquero {
 
 	}
 
-	// NO ANDA SOLDADO CON ESCUDO
 	@Test
 	public void atacaASoldadoConEscudo() {
 
